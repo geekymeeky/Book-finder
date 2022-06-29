@@ -3,3 +3,21 @@
 .font-pacifico {
   font-family: "Pacifico", cursive;
 }
+.scrollbar::-webkit-scrollbar {
+  width: 0.8rem;
+  height: 1rem;
+}
+
+.scrollbar::-webkit-scrollbar-track {
+  background: #1d4ed8;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  background: #1d4ed8;
+  border-radius: 100vh;
+  border: 3px solid #3a9cff;
+}
+
+.scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #3a9cff;
+}
