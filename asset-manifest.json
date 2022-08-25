@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2759980d.chunk.css",
-    "main.js": "/static/js/main.b8b7bf8e.chunk.js",
-    "main.js.map": "/static/js/main.b8b7bf8e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5e0182fe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5e0182fe.js.map",
-    "static/js/2.b44b9973.chunk.js": "/static/js/2.b44b9973.chunk.js",
-    "static/js/2.b44b9973.chunk.js.map": "/static/js/2.b44b9973.chunk.js.map",
-    "static/js/3.de86c368.chunk.js": "/static/js/3.de86c368.chunk.js",
-    "static/js/3.de86c368.chunk.js.map": "/static/js/3.de86c368.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2759980d.chunk.css.map": "/static/css/main.2759980d.chunk.css.map",
-    "static/js/2.b44b9973.chunk.js.LICENSE.txt": "/static/js/2.b44b9973.chunk.js.LICENSE.txt"
+    "main.css": "/Book-finder/static/css/main.2759980d.chunk.css",
+    "main.js": "/Book-finder/static/js/main.b8b7bf8e.chunk.js",
+    "main.js.map": "/Book-finder/static/js/main.b8b7bf8e.chunk.js.map",
+    "runtime-main.js": "/Book-finder/static/js/runtime-main.3b743721.js",
+    "runtime-main.js.map": "/Book-finder/static/js/runtime-main.3b743721.js.map",
+    "static/js/2.b44b9973.chunk.js": "/Book-finder/static/js/2.b44b9973.chunk.js",
+    "static/js/2.b44b9973.chunk.js.map": "/Book-finder/static/js/2.b44b9973.chunk.js.map",
+    "static/js/3.de86c368.chunk.js": "/Book-finder/static/js/3.de86c368.chunk.js",
+    "static/js/3.de86c368.chunk.js.map": "/Book-finder/static/js/3.de86c368.chunk.js.map",
+    "index.html": "/Book-finder/index.html",
+    "static/css/main.2759980d.chunk.css.map": "/Book-finder/static/css/main.2759980d.chunk.css.map",
+    "static/js/2.b44b9973.chunk.js.LICENSE.txt": "/Book-finder/static/js/2.b44b9973.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e0182fe.js",
+    "static/js/runtime-main.3b743721.js",
     "static/js/2.b44b9973.chunk.js",
     "static/css/main.2759980d.chunk.css",
     "static/js/main.b8b7bf8e.chunk.js"
